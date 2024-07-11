@@ -12,7 +12,7 @@
 
 .navbar {
     padding: 20px;
-    background: #2B547E;
+    background: #06ad51;
     
 }
 
@@ -46,7 +46,7 @@
 }
 
 .navbar .collapse {
-    background: #2B547E;
+    background: #06ad51;
 }
 
 .navbar .dropdown-menu{
@@ -80,8 +80,8 @@
 
 .name{
     font-size: 30px;
-    background-color: #2B547E;
-    color: #FFA500;
+    background-color: #06ad51;
+    color: #070500;
     padding: 50px;
 }
 
@@ -89,7 +89,7 @@
 
 .hero-section {
     padding: 20px;
-    background: #2B547E;
+    background: #017435;
 }
 
 .hero-section .text-content {

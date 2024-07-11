@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 5vh; /* This centers it vertically */
+    height: 5vh;
   }
 </style>
 
@@ -126,7 +126,7 @@
           </div>
 
 
-          <input type="submit" name="register" id="submit" value="Signup" class="btn">
+          <input type="submit" name="register" id="submit" value="Signup" class="btn center">
 
 
           <div class="links">

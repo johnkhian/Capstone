@@ -32,18 +32,7 @@
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="#home"></a>
                         </li>
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="#services">services</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#about">about us</a>
-                        </li> -->
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="#projects">projects</a>
-                        </li> -->
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="#contact">contact</a>
-                        </li> -->
+                
                         <li class="nav-item">
                             <a class="nav-link" href="login.php">login</a>
                         </li>
@@ -62,8 +51,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12 text-content">
-                    <h1>the digital service you really want</h1>
-                    <p>We build effective strategies to help you reach customers and prospects across the entire web.
+                    <h1>the environment you really want</h1>
+                    <p>
                     </p>
                     <!-- <button class="btn"><a href="#">Estimate Project</a></button> -->
                 </div>

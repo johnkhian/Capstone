@@ -118,8 +118,8 @@ if (!isset($_SESSION['username'])) {
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12 text-content">
-                    <h1>the digital service you really want</h1>
-                    <p>We build effective strategies to help you reach customers and prospects across the entire web.
+                    <h1>the environment you really want</h1>
+                    <p>
                     </p>
                     <!-- <button class="btn"><a href="#">Estimate Project</a></button> -->
                 </div>
